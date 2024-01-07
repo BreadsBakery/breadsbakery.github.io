@@ -8,7 +8,6 @@
 
 
 
-> LAlala
 <header>
 <h1>Breads Awesome Website :3</h1>
 
