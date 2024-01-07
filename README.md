@@ -1,6 +1,6 @@
 <html>
+	<title>Bread's Bakery</title>
 	<head>
-		<title>Bread's Bakery</title>
 		<link rel="stylesheet" href="stylesheet.css" type="text" />
 	</head>
 	
