@@ -1,0 +1,202 @@
+/* RESET */
+
+html, body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, aside, nav, main, header, footer {
+    /* Cancel out some differences between browser defaults */
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+ 
+* {
+    /* The width of an element will be the size of its border box, not its content box (which is the normal default). */
+    box-sizing: border-box;
+}
+
+/* LAYOUT */
+
+header {
+	background-color: C19A6B;
+}
+
+aside {
+	order: ;
+	background-color: C8AD7F;
+	width: ;
+	padding-bottom: ;
+}
+
+main { 
+    /* Make sure the browser knows how to display the HTML5 main element. */
+    order: ;
+	display: block;
+	background-color: FAD6A5;
+	background-image: url('');
+	background-size: ;
+	background-repeat: ;
+	width: ;
+}
+
+#content {
+	
+}
+
+nav {
+	background-color: bfeb75;
+}
+
+footer {
+	background-color: ;
+	padding: ;
+	color: ;
+}
+
+/* TYPOGRAPHY */
+
+marquee {
+	font-family:  "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	font-size: 1em;
+	flex-basis: auto;
+	color: #df6319;
+	text-align: center;
+}
+
+h1 {
+	font-family:  "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	font-size: 3em;
+	flex-basis: auto;
+	color: #1995DF;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	font-size: 2em;
+	flex-basis: auto;
+	color: #DF1995;
+	text-align: center;
+	padding-top: ;
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+}
+
+nav li {
+	
+}
+
+nav a {
+	font-family: "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	color: #95df19;
+	text-decoration: bold;
+	font-size: 1.5em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+h3 {
+	font-family: "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	font-size: 1em;
+	color: #19df63;
+	text-align: center;
+	font-weight: italic;
+}
+
+li {
+	font-family: "Comic Sans MS", "Comic Sans", "Times New Roman" ;
+	font-size: 1em;
+	color: #1995DF;
+	text-align: center;
+	font-weight: italic;
+}
+
+
+
+a.selected {
+	color: ;
+}
+
+a:hover {
+	color: #6319df;
+}
+
+p {
+	color: #1995DF;
+	padding-top: ;
+	padding-bottom: ;
+	padding-left: ;
+	padding-right: ;
+	font-family: "";
+	text-align: ;
+	font-size: ;
+}
+
+a {
+	font-size: ;
+	text-decoration: ;
+	color: ;
+	font-weight: ;
+	text-align: ;
+}
+
+footer span {
+	color: ;
+	font-style: ;
+	float: ;
+	padding-right: ;
+}
+
+/* IMAGES */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-bottom: 1em;
+}
+
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-bottom: 1em;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-bottom: 1em;
+}
+
+.center3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 63%;
+  padding-bottom: 1em;
+}
+
+.center4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-bottom: 1em;
+}
+
+iframe {
+  display: block;
+  margin-left: ;
+  margin-right: ;
+  width: ;
+  padding-bottom: ;
+	
+}
