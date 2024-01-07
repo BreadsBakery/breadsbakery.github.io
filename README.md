@@ -1,15 +1,4 @@
-
-
-
-
-
-
-
-
-
-
 <html>
-	<title>Bread's Bakery</title>
 	<head>
 		<link rel="stylesheet" href="stylesheet.css" type="text" />
 	</head>
