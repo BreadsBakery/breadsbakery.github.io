@@ -1,7 +1,4 @@
 
-<html lang="en"><head><meta charSet="utf-8" /><meta name="viewport" content="width=device-width" /><title>@BreadsBakery</title><meta name="description" content="guns.lol #1 bio link | discord.gg/guns" /><meta content="website" property="og:type" /><meta content="@BreadsBakery" property="og:title" /><meta content property="og:description" /><meta content="@BreadsBakery" name="author" /><style>.layout_2_4510bb0b2f33c8542865ef1267675955_guild_info__rVXiI h1 {font-size: 21px!important;font-weight: 550} .layout_2_4510bb0b2f33c8542865ef1267675955_guild_info__rVXiI h3 {font-size: 12.5px!important;margin-top: 1px!important;margin-bottom: 2px!important;font-weight: 500} .layout_2_4510bb0b2f33c8542865ef1267675955_guild_info__rVXiI a {font-size: 13px!important;padding: 1px 7.5px!important;font-weight: 500}</style><style>body{font-family: 'Satoshi', sans-serif;!important} .layout_2_4510bb0b2f33c8542865ef1267675955_description__0xRGU h2 {font-weight: 550!important;font-size: 14.5px!important}</style><style>
-
-
 
 
 
