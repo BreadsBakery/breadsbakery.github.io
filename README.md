@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Bread's Bakery</title>
-		<link rel="stylesheet" href="stylesheet.css">
+		<link rel="stylesheet" href="stylesheet.css" type="text" />
 	</head>
 	
 </html>
