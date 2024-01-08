@@ -39,9 +39,7 @@
 <p>Often people are sad and with games they are happy</p>
 </center>
 <img src="images\NO-WAY.gif" alt="Funny Meme" Height="200" Width="200" CLass="center2">
-
-
-<h2>Letter 18</h2>
+<footer>
 	<span>Copyright &copy Jordan 2023</span>
 </footer>
 
