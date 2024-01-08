@@ -42,50 +42,8 @@
 
 
 <h2>Letter 18</h2>
-<h3>Adviretisment</h3>
-<center>
-<p>Click</p>
-</center>
-<iframe width="895" height="503" src="https://www.youtube.com/embed/a7LiQGIKO7g" title="How to Make A Pipebomb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="center3"></iframe>
-<h2>Number Idao</h2>
-<h3>Click on the like for a cookie</h3>
-<center>
-<p>;)</p>
-</center>
-<a href="https://roc.lilithgames.com/en"><img src="https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-disney2B.jpg" alt="FREE COOKIES" height="170" width="624" Class="Center4"></a>															 
-<h3>TOP 5 WAYS TO GET VBUCKS!!?!?!?!??</h3>
-<center>
-<ol>
-<li>Give aways</li>
-<li>Hack</li>
-<li>Survey</li>
-<li>Card</li>
-<li>Generators</li>
-</ol>
-<h3>MY FAVIOUTE VIDEO GAMES</h3>
-<ul>
-<li>Roblox</li>
-<li>Fortnite</li>
-<li>Minecraft</li>
-<li>Rise of Kingdom</li>
-<li>Clash Royale</li>
-</ul>
-
-<h3>BEST STEPS!!?!?!?</h3>
-<table border="3px">
-<tr>
-<td>Is Stupid →→→→→</td>
-<td>Is Stupid ↓↓↓↓↓</td>
-</tr>
-<tr>
-<td>Is Stupid ↑↑↑↑↑ </td>
-<td>Is Stupud ←←←←←</td>
-</tr>
-</table>
-<footer>
 	<span>Copyright &copy Jordan 2023</span>
 </footer>
-<marquee>YOU'VE JUST WON 100000 VBUCKS!!!!</marquee>
 
 </center>
 </main>
