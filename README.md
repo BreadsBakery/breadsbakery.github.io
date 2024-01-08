@@ -23,7 +23,7 @@
 <main>
 <h2>My name is Bread </h2>
 <h3>Haha funny memes</h3>
-	<img src="https://github.com/BreadsBakery/breadsbakery.github.io/blob/main/Discord.png" alt="My Discord" Height="80" Width="80" Class="center">
+	<a herf='https://open.spotify.com/user/z9dntkz755hp08l0b4a0s6xsg'><img src="https://github.com/BreadsBakery/breadsbakery.github.io/blob/main/Spotify.png" alt="My Discord" Height="60" Width="60" Class="center"></a>
 	
 <img src="images\Haha.png" alt="Meme" Height="300" Width="300" Class="center1">
 <h2>Letter B</h2>
