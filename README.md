@@ -23,7 +23,8 @@
 <main>
 <h2>My name is Bread </h2>
 <h3>Haha funny memes</h3>
-<!-- <p>A text or picture that is intended to be funny</p> -->
+	<img src="https://github.com/BreadsBakery/breadsbakery.github.io/blob/main/Discord.png" alt="My Discord" Height="80" Width="80" Class="center">
+	
 <img src="images\Haha.png" alt="Meme" Height="300" Width="300" Class="center1">
 <h2>Letter B</h2>
 <h3>It Is Fun</h3>
