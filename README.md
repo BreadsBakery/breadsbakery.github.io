@@ -8,13 +8,13 @@
 
 
 <header>
-<h1>Breads Awesome Website :3</h1>
+<h1>Breads Bakery</h1>
 
 </header>
 <aside>	
 	<nav>
 		<ul>
-			<li><a href="index.html">My Discord</a></li>
+			<li><a href="index.html">My Discord</a></li> 
 			<li><a href="cringe.html">My Music Taste</a></li>
 
 		</ul>
